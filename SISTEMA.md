@@ -19,13 +19,27 @@ Desarrollo web · Diseño gráfico · Branding · Edición de video · Community
 
 | Día | Formato |
 | --- | --- |
-| Lunes | Carrusel educativo (6-7 láminas) |
-| Martes | Motion graphic / reel de un servicio |
-| Miércoles | Carrusel (tips, errores comunes, mitos) |
-| Jueves | Reel |
-| Viernes | Carrusel o reel de prueba social / proceso |
+| Lunes | Carrusel educativo para guardar (6-7 láminas) |
+| Martes | Reel con gancho fuerte (tip o error común) |
+| Miércoles | Reel de prueba (`TRIAL_REEL`, solo no seguidores) |
+| Jueves | Motion graphic de un servicio |
+| Viernes | Carrusel (checklist, mitos o proceso) |
 | Sábado | Reel corto con llamado a la acción |
 | Lunes a viernes | 1 historia por día (sin stickers; las de encuesta se entregan aparte para subir a mano) |
+
+## Crecimiento de seguidores (prioridad)
+
+El objetivo no es solo publicar: es llegar a gente que todavía no sigue a TriWeb y convertirla en seguidores y consultas.
+
+- **Más reels que carruseles.** Los reels son lo que Instagram muestra a no seguidores. Mínimo 4 reels por semana y 2 carruseles.
+- **1 reel de prueba (`TRIAL_REEL`) por semana.** Instagram lo muestra solo a no seguidores; es la forma más barata de probar ganchos nuevos. Si rinde bien, ese tema se repite como reel normal la semana siguiente.
+- **Gancho en los primeros 2 segundos.** Texto grande con una pregunta o un error que duela ("Tu web te está espantando clientes"), nunca arrancar con el logo.
+- **Contenido que se guarda y se comparte.** Checklists, "guardá esto para cuando...", "mandáselo a alguien que tenga un negocio". Pedirlo en el texto y en la última lámina.
+- **Cerrar con "Seguinos para más"** además del "Consultanos" en carruseles educativos.
+- **Palabras clave en el texto** (Instagram las usa como buscador): "diseño web", "página web para negocios", "branding", "community manager", "Buenos Aires", "Argentina". Entre 5 y 8 hashtags específicos, nada de #love o #instagood.
+- **Colaboraciones.** Cuando un cliente real acepte, publicar con `instagramData.collaborators` para que el post salga también en su cuenta y llegue a sus seguidores.
+- **Un sorteo al mes** (por ejemplo, un logo o una auditoría de redes gratis), con reglas claras: seguir a @triweb_73, comentar etiquetando a alguien con negocio, fecha de cierre y ganador anunciado en historias. Proponerlo en el resumen para que el dueño lo apruebe antes de publicarlo.
+- **Historias todos los días** con preguntas y encuestas: aumentan la interacción y hacen que Instagram muestre más los posts.
 
 ## Procedimiento semanal
 
