@@ -11,7 +11,13 @@
 | 2026-11-04 | Carrusel | Branding | Tu logo no es tu marca |
 | 2026-11-05 | Motion graphic | Community manager | Tu Instagram al día y vendiendo (+1.500 seguidores Dalinger) |
 | 2026-11-06 | Motion graphic | Branding | Una marca que se recuerda |
+| 2026-11-01 | Reel | Branding | Caso Sura Arquitectura: de la idea a la marca (proyecto) |
 | 2026-11-07 | Motion graphic | Video | Videos que se miran hasta el final |
+| 2026-11-08 | Carrusel | Branding | Caso Sura Arquitectura: proceso completo (proyecto) |
+
+## Material disponible
+
+- `sistema/sura/src/`: imágenes del branding de Sura Arquitectura (proyecto de branding de Luciano, presentarlo como proyecto, no como cliente). Ya usadas: carrusel de caso y reel. Se pueden reutilizar en piezas de antes/después, "anatomía de un logo" o paletas.
 
 ## Aprendizajes
 
