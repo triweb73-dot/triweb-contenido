@@ -19,6 +19,11 @@
 
 - `sistema/sura/src/`: imágenes del branding de Sura Arquitectura (proyecto de branding de Luciano, presentarlo como proyecto, no como cliente). Ya usadas: carrusel de caso y reel. Se pueden reutilizar en piezas de antes/después, "anatomía de un logo" o paletas.
 
+## Pendientes (esperando material de Luciano)
+
+- Reels con voz en off: Luciano va a grabar el guion de "Somos TriWeb" más adelante. No usar voces sintéticas.
+- Caso de éxito Dalinger Automotores (community manager): esperando capturas del perfil, antes/después, posts y estadísticas, y el permiso de Dalinger. No producir este caso hasta tener el material.
+
 ## Aprendizajes
 
 Todavía sin datos: la primera publicación sale el 26/10.
