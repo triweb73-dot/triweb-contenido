@@ -1,6 +1,7 @@
 """Shared TriWeb brand kit (final identity: Nudo, negro / crema / verde trébol) for rendering Instagram pieces."""
 import sys, pathlib
 sys.path.insert(0, '/home/claude/triweb/logo')
+sys.path.insert(0, '/home/claude/triweb/logo2')
 from nudo import mark_path, seed_path, BBOX, CY
 
 NEGRO, CREMA, VERDE, VERDE_TXT = '#0B0B0C', '#F2ECDD', '#22C55E', '#166534'
@@ -26,12 +27,13 @@ body{{background:#777}}
 """
 
 def mark_svg(color, size=None, extra='', seed=VERDE):
-    """The Nudo (with its green seed) as an inline SVG, square box, optically centred."""
-    s = max(MW, MH) + 8
+    """El Nudo NUEVO (logo enviado por Luciano el 2026-11-02) con su semilla verde, caja cuadrada centrada."""
+    import nudo_nuevo as N
+    x0, y0, x1, y1 = N.BBOX; s = max(x1 - x0, y1 - y0) * 1.04; cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
     st = f'width="{size}" height="{size}"' if size else 'width="100%" height="100%"'
-    return (f'<svg viewBox="{-s/2:.1f} {-s/2:.1f} {s:.1f} {s:.1f}" {st} {extra}>'
-            f'<g transform="translate(0 {-CY:.2f})"><path d="{MARK}" fill="{color}"/>'
-            + (f'<path d="{SEED}" fill="{seed}"/>' if seed else '') + '</g></svg>')
+    return (f'<svg viewBox="{cx-s/2:.1f} {cy-s/2:.1f} {s:.1f} {s:.1f}" {st} {extra}>'
+            f'<path d="{N.KNOT}" fill="{color}" fill-rule="evenodd"/>'
+            + (f'<path d="{N.SEED}" fill="{seed}" fill-rule="evenodd"/>' if seed else '') + '</svg>')
 
 def page(inner, w=1080, h=1350, cls='', extra_css=''):
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{BASE_CSS}{extra_css}</style></head>
