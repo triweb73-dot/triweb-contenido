@@ -55,6 +55,25 @@ Archivos: Drive "TriWeb - grabaciones" y "Portfolio - imágenes" siguen vacías.
 triweb.com.ar y el portfolio no se pudieron leer (permiso de acceso sin respuesta): precios citados = los del 2/11, aclarado en el texto.
 Herramientas: sistema/semana5 (reels5.py, musica5.py, carruseles5.py).
 
+## Semana del 23 al 29/11/2026 (formato · layout · música) — producida el 19/11
+
+| Fecha | Tipo | Servicio | Formato | Tema | Layout / ritmo | Música |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lun 23/11 10:00 (feriado) | Reel 9,5 s | Branding | POV / meme de tendencia ("confesión", estilo "Sue me") | Confesión de diseñador: tu logo no tiene que mostrar lo que vendés (logo de Sura: pájaro sobre una viga) | Texto tipo sticker palabra por palabra sobre imagen real con zoom lento, cierre crema | Tango electrónico original 116 bpm |
+| Mar 24/11 10:00 | Carrusel 5 | Web | Antes/después | Misma tienda, ¿cuál vende en el Black Friday? (ejemplo ilustrativo) | Ventana de navegador con marcas numeradas, lista con tachado, portada crema | — |
+| Mié 25/11 10:00 | TRIAL_REEL 15 s | Web | Quiz | ¿A cuál le escribís, A o B? (ejemplo ilustrativo) | Dos celulares lado a lado, cuenta regresiva 3-2-1 con golpe, sello GANA B, tarjetas que entran de costado | Drum & bass original 172 bpm |
+| Jue 26/11 10:00 | Reel 12 s | Community manager | Dato / novedad de Instagram | Asistente de IA en Edits: qué te propone y qué no puede hacer | Marquesina de noticia, texto palabra por palabra, dos columnas ✓/✕ con barridos | UK garage 2-step original 132 bpm |
+| Vie 27/11 10:00 | Reel 16 s | Web | Detrás de escena / proceso (promo de la semana) | Black Friday: tu landing en 7 días hábiles; rediseño desde $197.000 (precio al 2/11) | Contador gigante 1→7 con barra de progreso + celular que se arma (idea, diseño, online), tabla de planes | Nu-disco original 120 bpm |
+| Sáb 28/11 10:00 | Carrusel 7 | Branding | Tutorial 3 pasos | La paleta de tu marca en 3 pasos (ejemplo real: Sura) | Números gigantes con contorno, muestras de color, barras 60-30-10, imagen aplicada, tachado | — |
+| Dom 29/11 11:00 | Carrusel 6 | Branding | Error común + corrección | Tu logo en 16 px: emblema recargado (ilustrativo) vs. Nudo simple, prueba de 1 minuto | Escalera de tamaños 360/120/40/16 px, grilla 2×2 de usos, checklist; portada crema | — |
+| Lun a dom 13:00 | Historias | — | 1 por día, anticipan el post | — | Sticker, navegador, A/B, marquesina, contador, franjas de color, emblema 16 px | — |
+
+Historias con sticker para subir a mano: triweb-historia-sticker-encuesta-black-friday.png y triweb-historia-sticker-pregunta-tu-logo.png (media/2026-11-23/).
+Tendencias usadas: Black Friday viernes 27/11 (mar y vie); formato "confesión" con texto sobre imagen (tendencia "Sue me", ago-2026, NapoleonCat) (lun); asistente de IA en Edits (SB Digital, 28/10/2026) (jue); feriado del lunes 23/11.
+Audio en tendencia: Metricool devolvió 403 otra vez (catálogo no disponible); música original. Sugeridos (Ignix, semana del 9/11): lun "Vintage November" (Peaceful Reveries), mié "Outsider" (HEALER), jue "What's Up – Deep house" (HARDMAX), vie "Roi (Instrumental)" (Jonny Red).
+Archivos: Drive "TriWeb - grabaciones" y "Portfolio - imágenes" siguen vacías. Se usaron sistema/sura/src/logo-negro.png y papeleria.png. triweb.com.ar y el portfolio no se pudieron leer (permiso de acceso sin respuesta): precios = los del 2/11, aclarado.
+Herramientas: sistema/semana6 (reels6.py, musica6.py, carruseles6.py). Portadas comparadas: media/2026-11-23/portadas-semana-23-11.jpg.
+
 ## Material disponible
 
 - `sistema/sura/src/`: imágenes del branding de Sura Arquitectura (proyecto de branding de Luciano, presentarlo como proyecto, no como cliente). Ya usadas: carrusel de caso y reel. Se pueden reutilizar en piezas de antes/después, "anatomía de un logo" o paletas.
@@ -69,4 +88,6 @@ Herramientas: sistema/semana5 (reels5.py, musica5.py, carruseles5.py).
 - 29/10 al 4/11: alcance 414 cuentas, 964 visualizaciones, 63 interacciones, +2 / −5 seguidores (1.309). El mejor día fue el 30/10 (carrusel "5 señales", alcance 190): las listas de señales/errores para guardar rinden más.
 - 5/11: los posts del 5 al 8/11 estaban como borrador en Metricool; se pasaron a draft: false. Revisar siempre draft después de programar.
 - 5/11 al 11/11: 3.185 visualizaciones, 176 interacciones, 101 cuentas con interacción, +4 / −3 seguidores (1.314 al 10/11). Lo que más rindió fueron los reels subidos a mano por Luciano: "PRECIOS DE SITIOS WEB EN NOVIEMBRE 2026" (10/11: 1.102 de alcance, 1.511 views, 36 guardados, 15 compartidos) y "¿Vendes solo por redes? ERROR" (4/11: 525 de alcance). Los precios y los "errores" con gancho directo son lo que más alcanza: por eso esta semana sale el carrusel "¿Cuánto sale una web?" y la comparación Instagram vs. web. Los carruseles programados quedaron entre 24 y 112 de alcance; el mejor fue el del 6/11 (112).
+- 12/11 al 18/11: ~2.000 visualizaciones, 68 cuentas con interacción, +4 / −6 seguidores (1.316 al 17/11). El reel subido a mano del 16/11 (#programacion #ia) llegó a 407 cuentas; el de precios del 10/11 sigue siendo el mejor (1.386 de alcance, 48 guardados, 22 compartidos). Los programados quedaron entre 32 y 87 de alcance.
+- ⚠️ 19/11: desde el 15/11 13:00 Metricool rechaza las publicaciones con "You have reached your Metricool account limit". No salieron el reel del 16/11, el carrusel del 17/11, el trial reel del 18/11 ni las historias del 15 al 18/11. Hace falta subir el plan de Metricool o esperar el reinicio del límite. Si se reprograma, las piezas del 16-18/11 están en media/2026-11-16/ (la del 18/11 dice "faltan 9 días", ya no sirve).
 - Visitas al perfil y mensajes no están disponibles en Metricool (métricas deprecadas); hay que mirarlos en la app de Instagram.
