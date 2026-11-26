@@ -74,6 +74,25 @@ Audio en tendencia: Metricool devolvió 403 otra vez (catálogo no disponible); 
 Archivos: Drive "TriWeb - grabaciones" y "Portfolio - imágenes" siguen vacías. Se usaron sistema/sura/src/logo-negro.png y papeleria.png. triweb.com.ar y el portfolio no se pudieron leer (permiso de acceso sin respuesta): precios = los del 2/11, aclarado.
 Herramientas: sistema/semana6 (reels6.py, musica6.py, carruseles6.py). Portadas comparadas: media/2026-11-23/portadas-semana-23-11.jpg.
 
+## Semana del 30/11 al 6/12/2026 (formato · layout · música) — producida el 26/11
+
+| Fecha | Tipo | Servicio | Formato | Tema | Layout / ritmo | Música |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lun 30/11 10:00 | Carrusel 6 | Web | Checklist guardable | Diciembre vende: 6 chequeos de tu web antes de las fiestas | Calendario de diciembre con el 24 en verde, etiquetas de regalo con agujero y número contorneado, lista para tachar | — |
+| Mar 01/12 10:00 | Reel 15,5 s | Branding | Mito vs. verdad | 3 mitos que arruinan tu logo (colores, cambiarlo, plantilla) | Tarjetas que entran de costado y giran 180° (frente crema MITO / dorso verde VERDAD), temblor en cada giro | Electro swing original 124 bpm |
+| Mié 02/12 10:00 | TRIAL_REEL 13 s | Web | Comparación | ¿Página de links o tu web? 4 rondas | Rondas con tarjeta borde vs. tarjeta crema, barra de cinchada con perilla verde que avanza y marcador 0→4 | Techno minimal original 126 bpm |
+| Jue 03/12 10:00 | Carrusel 6 | Edición de video | Tutorial 3 pasos | Tu reel de fin de año en 3 pasos con el celu | Línea de tiempo de editor (clips, regla, forma de onda, cabezal verde), números gigantes contorneados, celu con texto, tachados | — |
+| Vie 04/12 10:00 | Reel 17,5 s | Web | Pregunta frecuente con datos de la web (promo de la semana) | Asesoramiento gratis, landing 7 días hábiles, rediseño desde $197.000 (precio al 2/11), web + Instagram | Fondo crema, sticker FAQ, acordeón que se abre al beat (fila negra, + que gira a ×) | Amapiano original 112 bpm (log drum) |
+| Sáb 05/12 10:00 | Reel 12,5 s | Branding | Antes/después | 4 piezas, 4 marcas → 1 marca (heladería inventada "Nube helados", ilustrativo) | Grilla 2×2 (cartel, post, vaso, bolsa) que aparece con golpes y se transforma con barrido diagonal al beat, zoom de cámara al final | Chacarera electrónica original 6/8 (bombo legüero) |
+| Dom 06/12 11:00 | Carrusel 5 | Community manager | Dato / novedad de Instagram | Editar historias hasta 15 min después (Instagram, 18/11/2026) | Cronómetro 15:00 gigante, celu con historia "Editada", lista ✓/✕, tarjetas blancas | — |
+| Lun a dom 13:00 | Historias | — | 1 por día, anticipan el post | — | Etiqueta, tarjeta MITO, VS, línea de tiempo, acordeón, grilla de 4 marcas, 15:00 | — |
+
+Historias con sticker para subir a mano: triweb-historia-sticker-encuesta-diciembre.png y triweb-historia-sticker-pregunta-web.png (media/2026-11-30/).
+Tendencias usadas: diciembre / fiestas como fecha comercial (lun, jue); Instagram permite editar historias publicadas hasta 15 min (Gizmodo, 18/11/2026) (dom); temporada de verano (heladería ilustrativa, sáb). Novedad relacionada no usada todavía: Gemini conectado a Google Business Profile (responder reseñas, horarios de temporada); Instagram "content protection" para reels originales (TechCrunch, 17/11/2026).
+Audio en tendencia: Metricool devolvió 403 otra vez (catálogo no disponible); música original. Sugeridos para cambiar a mano: ver resumen del 26/11.
+Archivos: Drive "TriWeb - grabaciones" sin archivos nuevos desde el 1/11. triweb.com.ar no se pudo leer (permiso de acceso sin respuesta): precios = los del 2/11, aclarado.
+Herramientas: sistema/semana7 (reels7.py, musica7.py, carruseles7.py). Portadas comparadas: media/2026-11-30/portadas-semana-30-11.jpg. Textos: media/2026-11-30/textos.md.
+
 ## Material disponible
 
 - `sistema/sura/src/`: imágenes del branding de Sura Arquitectura (proyecto de branding de Luciano, presentarlo como proyecto, no como cliente). Ya usadas: carrusel de caso y reel. Se pueden reutilizar en piezas de antes/después, "anatomía de un logo" o paletas.
@@ -90,4 +109,5 @@ Herramientas: sistema/semana6 (reels6.py, musica6.py, carruseles6.py). Portadas 
 - 5/11 al 11/11: 3.185 visualizaciones, 176 interacciones, 101 cuentas con interacción, +4 / −3 seguidores (1.314 al 10/11). Lo que más rindió fueron los reels subidos a mano por Luciano: "PRECIOS DE SITIOS WEB EN NOVIEMBRE 2026" (10/11: 1.102 de alcance, 1.511 views, 36 guardados, 15 compartidos) y "¿Vendes solo por redes? ERROR" (4/11: 525 de alcance). Los precios y los "errores" con gancho directo son lo que más alcanza: por eso esta semana sale el carrusel "¿Cuánto sale una web?" y la comparación Instagram vs. web. Los carruseles programados quedaron entre 24 y 112 de alcance; el mejor fue el del 6/11 (112).
 - 12/11 al 18/11: ~2.000 visualizaciones, 68 cuentas con interacción, +4 / −5 seguidores (1.316 al 17/11). El reel subido a mano del 16/11 (#programacion #ia) llegó a 407 cuentas; el de precios del 10/11 sigue siendo el mejor (1.386 de alcance, 48 guardados, 22 compartidos). Los programados quedaron entre 32 y 87 de alcance.
 - ⚠️ 19/11: desde el 15/11 13:00 Metricool rechaza las publicaciones con "You have reached your Metricool account limit". No salieron el reel del 16/11, el carrusel del 17/11, el trial reel del 18/11 ni las historias del 15 al 18/11. Hace falta subir el plan de Metricool o esperar el reinicio del límite. Si se reprograma, las piezas del 16-18/11 están en media/2026-11-16/ (la del 18/11 dice "faltan 9 días", ya no sirve).
+- ⚠️ 26/11: el límite de Metricool SIGUE activo. Todo lo programado del 15/11 al 25/11 (feed e historias) quedó en ERROR "You have reached your Metricool account limit". Solo se publicó lo que Luciano subió a mano (reels del 16, 18, 19, 20 y 24/11). 19/11 al 25/11: ~800 visualizaciones, 430 de alcance, 32 cuentas con interacción, +4 / −5 seguidores (1.315). Mejor contenido: reel a mano del 16/11 (#programacion #ia, 417 de alcance). Si el límite es mensual, puede reiniciarse el 1/12: la semana del 30/11 quedó programada igual.
 - Visitas al perfil y mensajes no están disponibles en Metricool (métricas deprecadas); hay que mirarlos en la app de Instagram.
